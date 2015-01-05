@@ -1,4 +1,4 @@
-Properties
+ItalicGuide
 ==========
 
 Extension for RoboFont<br>
